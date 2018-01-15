@@ -1,0 +1,47 @@
+html {
+  height: 80%;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 5px;
+  height: 100%;
+}
+header {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  padding-right: 5px;
+  font-size: 30px;
+  display: block;
+  width: 790px;
+}
+
+h2 {
+  text-align: center;
+
+}
+nav a:link, a:visited {
+      background-color: #808080;
+      color: black;
+      padding: 14px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+  }
+
+nav a:hover, a:active {
+      background-color: blue;
+    }
+
+p {
+  text-align: center;
+}
+img {
+  display: block;
+margin: auto;
+
+}
+ul {
+  display: block;
+}
